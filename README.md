@@ -1,3 +1,13 @@
+# A fork of jankais3r/LLaMA_MPS
+
+## reshape
+
+```bash weight.sh 7B|13B|30B|65B```
+
+## run
+
+```bash run.sh 7B|13B|30B|65B```
+
 # LLaMA_MPS
 Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
 
